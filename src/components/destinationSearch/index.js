@@ -19,7 +19,7 @@ class DestinationSeach extends Component {
       <div className="main-bg">
         <div className="search-container">
           <div>
-            <h1 className="heading">Destination Search </h1>
+            <h1 className="heading">Destination</h1>
           </div>
           <div className="search-input-container">
             <input
