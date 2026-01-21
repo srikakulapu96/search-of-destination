@@ -19,7 +19,8 @@ class DestinationSeach extends Component {
       <div className="main-bg">
         <div className="search-container">
           <div>
-            <h1 className="heading">Destination Search </h1>
+            <h1 className="heading">Destination Search Edited by Vijju  </h1>
+            <h2>Find your favorite destinations</h2>
           </div>
           <div className="search-input-container">
             <input
